@@ -3,6 +3,7 @@
 I'm adding some changes
 Some changes from github.com
 
+Some changes in the new branch
 ## git
 
 git is a version control software.
