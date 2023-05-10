@@ -6,6 +6,8 @@ Some changes from github.com
 Some changes in the new branch
 
 Some more changes
+
+Yet another change.
 ## git
 
 git is a version control software.
